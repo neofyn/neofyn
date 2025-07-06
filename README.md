@@ -53,7 +53,7 @@
 <!-- - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker -->
 <!-- - **[miniRT](https://github.com/dubmix/42-miniRT)** | Building a Raytracer in C -->
 - **[push_swap](https://github.com/neofyn/push_swap)** | Building an algorithm to sort data using stacks
-- **[so_long](https://github.com/neofyn/so_long)** | A simple 2D game inspired by a famous franchise
+- **[so_long](https://github.com/neofyn/so_long)** | A simple 2D game inspired by the famous game "Baba Is You"
 - **[minitalk](https://github.com/neofyn/minitalk)** | Unix signal-based message transfer between client and server processes
 - **[Hospital Falling Case Analytics](https://github.com/neofyn/Applied-Analytics-Portfolio)**
 
