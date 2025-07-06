@@ -27,8 +27,8 @@
 
 
 
-# GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neofyn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10)
+<!-- # GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neofyn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Makefile&layout=compact&langs_count=10) -->
 
 <!-- Here are some ideas to get you started: -->
 
@@ -42,7 +42,7 @@
 - ⚡ Fun fact: ...
 - 🔭 In my spare time, I like to work on **[RAG-chatbot](https://github.com/dubmix/RAG-chatbot)**, a personal project using **OpenAI**'s API and **Chroma** as a vector database -->
 
-#### And here are some of my public **42 projects**:
+#### And here are some of my public **42 and University projects**:
 
 <!-- - **[Webserv](https://github.com/dubmix/42-Webserv)** | Building a C++ HTTP web server from scratch -->
 <!-- - **[Inception](https://github.com/dubmix/42-Inception)** | Setting up a network of containers using Docker -->
