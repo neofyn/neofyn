@@ -1,6 +1,6 @@
 # Hi there, I'm FYN 👋
 
-- 🎓 Core Student from **[42](https://www.42network.org/)**
+- 🎓 Core Student from **[42 Berlin](https://www.42network.org/)**
 - 👨‍💻 Master Student in **Information System Engineering** at **[Freie Universität Berlin](https://www.fu-berlin.de/)**
 - 🌐 Check out my **[website](https://)** for the full story
 
