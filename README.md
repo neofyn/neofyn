@@ -56,4 +56,8 @@
 - **[so_long](https://github.com/neofyn/so_long)** | A simple 2D game inspired by the famous game "Baba Is You"
 - **[minitalk](https://github.com/neofyn/minitalk)** | Unix signal-based message transfer between client and server processes
 - **[Hospital Falling Case Analytics](https://github.com/neofyn/Applied-Analytics-Portfolio)**
+<h2></h2>
+<div align="center">
 
+  ![](https://komarev.com/ghpvc/?username=neofyn&color=af2d59&style=for-the-badge)
+</div>
