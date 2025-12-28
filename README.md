@@ -1,4 +1,4 @@
-# Hi there, I'm FYN 👋
+# Hi there, I'm FYN <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 - 🎓 Core Student from **[42 Berlin](https://www.42network.org/)**
 - 👨‍💻 Master Student in **Information System Engineering** at **[Freie Universität Berlin](https://www.fu-berlin.de/)**
